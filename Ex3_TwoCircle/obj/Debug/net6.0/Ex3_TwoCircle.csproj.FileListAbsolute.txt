@@ -1,0 +1,15 @@
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\bin\Debug\net6.0\Ex3_TwoCircle.exe
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\bin\Debug\net6.0\Ex3_TwoCircle.deps.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\bin\Debug\net6.0\Ex3_TwoCircle.runtimeconfig.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\bin\Debug\net6.0\Ex3_TwoCircle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\bin\Debug\net6.0\Ex3_TwoCircle.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.csproj.AssemblyReference.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.AssemblyInfoInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.AssemblyInfo.cs
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.csproj.CoreCompileInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\refint\Ex3_TwoCircle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\Ex3_TwoCircle.genruntimeconfig.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex3_TwoCircle\obj\Debug\net6.0\ref\Ex3_TwoCircle.dll
