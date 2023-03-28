@@ -1,0 +1,15 @@
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\bin\Debug\net6.0\Ex1_Circle.exe
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\bin\Debug\net6.0\Ex1_Circle.deps.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\bin\Debug\net6.0\Ex1_Circle.runtimeconfig.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\bin\Debug\net6.0\Ex1_Circle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\bin\Debug\net6.0\Ex1_Circle.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.csproj.AssemblyReference.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.AssemblyInfoInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.AssemblyInfo.cs
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\refint\Ex1_Circle.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\Ex1_Circle.genruntimeconfig.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\Term2\Homework3\Ex1_Circle\obj\Debug\net6.0\ref\Ex1_Circle.dll
